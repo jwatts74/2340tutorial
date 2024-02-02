@@ -7,5 +7,5 @@
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
-    <string name="hello_world_text">Hello World!</string>
+    <string name="random_footer">Here is a random number between 0 and %d.</string>
 </resources>
